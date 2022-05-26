@@ -1,11 +1,12 @@
-# Predictioner (Module)
-Predictioner (Module) is the module of the program Predictioner, which allows you to predict the next terms of a given sequence.
+# Predictioner API
+Predictioner API is the API of the program Predictioner, which allows you to predict the next terms of a given sequence.
 
 ## Installation
 First, you need to install the module:
 ```python
 # For Windows users
 pip install predictioner
+
 # For Unix users
 sudo pip3 install predictioner
 ```
